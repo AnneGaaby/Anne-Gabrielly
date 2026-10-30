@@ -1,29 +1,23 @@
-# Salut, moi c'est Anne.
+# Portfolio — Anne Gabrielly Alves
 
-Je suis actuellement une formation en développement web chez Skill&You Suisse. J'apprends le front-end et le back-end, et j'essaie de mettre en pratique ce que je découvre à travers mes projets personnels.
+Site personnel présentant mon profil, mes compétences et mes réalisations dans le domaine informatique.
 
-J'aime l'informatique, monter des PC, comprendre comment les choses fonctionnent et chercher des solutions quand quelque chose ne marche pas.
+Le portfolio constitue la présentation principale de mon parcours. Ce dépôt contient son code source et les ressources nécessaires à son fonctionnement.
 
-## Ce qui m'intéresse
+## Technologies
 
-- Développement web
-- Support informatique et dépannage
-- Intelligence artificielle et modèles locaux
-- Matériel informatique
-- Projets autour des jeux vidéo et des serveurs
+- HTML5
+- CSS3
+- JavaScript
 
-## Quelques projets
+## Exécution locale
 
-**J.A.R.V.I.S.**  
-Un assistant personnel sur lequel je travaille, notamment autour de l'IA locale et de la commande vocale.
+Ouvrir `index.html` dans un navigateur ou lancer un serveur local depuis la racine du projet.
 
-**Talisman Online**  
-Un projet personnel autour d'un serveur de jeu et de l'amélioration de certaines ressources du jeu.
+## Publication
 
-Je partagerai ici mes projets et les choses que j'apprends au fur et à mesure.
+Le site est destiné à être publié avec GitHub Pages.
 
-## Mon objectif
+---
 
-Je cherche à développer mes compétences et à trouver une première opportunité dans l'informatique en Suisse, que ce soit en support informatique ou en développement web junior.
-
-Merci d'être passée par ici !
+© Anne Gabrielly Alves
