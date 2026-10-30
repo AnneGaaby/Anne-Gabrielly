@@ -159,10 +159,6 @@ a { color: inherit; }
 .learned li { position: relative; padding-left: 1.1rem; font-size: .93rem; }
 .learned li::before { position: absolute; left: 0; color: var(--gold); content: '–'; }
 .note-inline { color: var(--ink-soft); font-size: .9rem; font-style: italic; }
-.project--text { grid-template-columns: 5fr 7fr; }
-.project--text .project-body { grid-column: 2; position: relative; padding-top: 1.6rem; }
-.project-number { position: absolute; top: -1.65rem; left: -.15rem; z-index: 0; color: var(--sand-pale); font-family: var(--font-title); font-size: 7rem; font-weight: 300; line-height: 1; }
-.project-number + .project-status { position: relative; z-index: 1; }
 .project-gallery { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--sand-whisper); }
 .project-gallery .project-image--primary { object-position: center; }
 .project-gallery .project-image--secondary { object-position: center; }
@@ -215,10 +211,9 @@ a { color: inherit; }
   .cards-3 { grid-template-columns: 1fr; }
   .cards-5 { grid-template-columns: repeat(2, 1fr); }
   .two-col { grid-template-columns: 1fr; gap: 3rem; }
-  .project, .project:nth-child(even), .project--text { grid-template-columns: 1fr; gap: 1.5rem; }
+  .project, .project:nth-child(even) { grid-template-columns: 1fr; gap: 1.5rem; }
   .project:nth-child(even) .project-visual { order: 0; }
   .project-visual { position: relative; top: auto; max-width: 620px; }
-  .project--text .project-body { grid-column: auto; max-width: 640px; }
 }
 @media (max-width: 860px) {
   .nav { padding: 0 1.25rem; }
